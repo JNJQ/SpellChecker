@@ -1,0 +1,6 @@
+D:\Projects\ForSQG\SpellChecker\SpellChecker\bin\Release\SpellChecker.exe.config
+D:\Projects\ForSQG\SpellChecker\SpellChecker\bin\Release\SpellChecker.exe
+D:\Projects\ForSQG\SpellChecker\SpellChecker\bin\Release\SpellChecker.pdb
+D:\Projects\ForSQG\SpellChecker\SpellChecker\obj\Release\SpellChecker.csproj.CoreCompileInputs.cache
+D:\Projects\ForSQG\SpellChecker\SpellChecker\obj\Release\SpellChecker.exe
+D:\Projects\ForSQG\SpellChecker\SpellChecker\obj\Release\SpellChecker.pdb
